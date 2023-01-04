@@ -4,7 +4,7 @@ Source code developed for the final project of the course TC1030.
 
 Course: TC1030 (Object-Oriented Programming)
 <br>
-Developed by: Brenda Saucedo
+Developed by: [Brenda Saucedo](https://github.com/Bren12)
 <br>
 Semester: Feb-Jun 2021
 <br>
