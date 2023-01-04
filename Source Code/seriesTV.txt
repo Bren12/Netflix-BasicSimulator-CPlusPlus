@@ -1,0 +1,15 @@
+Lupin misterio 123456 123 1 piloto 1 plan 2 trampa 3 2 evidencia 4 mensaje 5 robo 1
+Sabrina misterio 123457 124 1 octubre 1 oscuro 2 juicio 3 2 academia 2 exorcismo 4 festin 5
+Sense misterio 123458 125 1 resonancia 5 unidos 3 apuestas 1 2 destino 2 polifonia 2 miedo 3
+Ozark misterio 123459 126 1 azucarada 1 blue 1 insomnio 1 2 improvisar 2 caja 2 campanas 2
+Hache misterio 123450 127 1 flotando 3 trabajo 3 combate 3 2 vengaza 4 marsella 4 tiovivo 4
+Arrow accion 123451 128 1 inicio 5 honra 5 solitarios 5 2 inocente 2 mercancia 2 legado 2
+Outlander accion 123452 129 1 escocia 2 castillo 2 salida 1 2 encuentro 2 renta 2 comandante 2
+Merlin accion 123453 130 1 llamado 3 valiant 3 envenenar 3 2 lancelot 2 remedio 4 avalon 5
+Vikingos accion 123454 131 1 iniciacion 2 furia 1 desposieido 5 2 juicio 1 asalto 2 entierro 3
+Flash accion 123455 132 1 comienzo 4 veloz 2 escape 5 2 renegados 1 plastico 1 nacimiento 5
+Palacio drama 123460 133 1 amigo 3 adios 3 rico 2 2 ascenso 1 competencia 4 secreto 5
+Bridgerton drama 123461 134 1 diamante 5 sorprende 2 desmayo 1 2 honor 3 duque 4 frufu 2
+You drama 123462 135 1 piloto 3 agradable 3 capitan 1 2 enemigo 2 todalidad 4 tuyo 1
+Dark drama 123463 136 1 secretos 5 mentiras 3 tiempo 4 2 dobles 4 verdades 3 despertar 5
+Rain drama 123464 137 1 contacto 3 verdad 4 control 3 2 salvense 3 organicense 4 sobrevivir 3

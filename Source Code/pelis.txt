@@ -1,0 +1,15 @@
+Malefica 509565 misterio 97 5 A
+Fragmentados 657855 misterio 117 4 B
+Inferno 452366 misterio 121 3 C
+It 432288 misterio 135 2 A
+Secreto 349568 misterio 127 1 B
+Shrek 835999 accion 90 5 C
+Geo-Tormenta 230062 accion 109 4 A
+Jumaji 617492 accion 119 3 B
+Deadpool 629090 accion 108 2 C
+Matrix 962846 accion 194 1 A
+Wonder 617190 drama 113 4 B
+Titanic 792010 drama 195 5 C
+Tibet 672913 drama 104 3 A
+Agente 872901 drama 127 1 B
+Milagro 279467 drama 148 2 C
