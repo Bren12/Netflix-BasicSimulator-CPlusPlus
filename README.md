@@ -6,9 +6,7 @@ Course: TC1030 (Object-Oriented Programming)
 <br>
 Developed by: [Brenda Saucedo](https://github.com/Bren12)
 <br>
-Semester: Feb-Jun 2021
-<br>
-Group: 5
+Semester: FJ21
 
 ## Files Description
 
