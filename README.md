@@ -2,11 +2,9 @@
 
 Source code developed for the final project of the course TC1030.
 
-Course: TC1030 (Object-Oriented Programming)
-<br>
-Developed by: [Brenda Saucedo](https://github.com/Bren12)
-<br>
-Semester: FJ21
+**Course:** TC1030 (Object-Oriented Programming) <br>
+**Developed by:** [Brenda Saucedo](https://github.com/Bren12) <br>
+**Semester:** FJ21
 
 ## Files Description
 
