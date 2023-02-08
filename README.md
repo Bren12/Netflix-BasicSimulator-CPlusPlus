@@ -1,4 +1,4 @@
-# Netflix Basic Simulator In C++
+# Netflix Basic Simulator In C++ 🎬
 
 Source code developed for the final project of the course TC1030.
 
