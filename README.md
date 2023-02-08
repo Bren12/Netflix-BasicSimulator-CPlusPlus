@@ -6,6 +6,11 @@ Source code developed for the final project of the course TC1030.
 **Developed by:** [Brenda Saucedo](https://github.com/Bren12) <br>
 **Semester:** FJ21
 
+## Project Description
+
+Computer program developed to model some of the needs and behaviors offered by video-on-demand 
+streaming services, for example, Netflix, Disney+, HBO Max, Prime Video, among others.
+
 ## Files Description
 
 ### 📁 Source Code
